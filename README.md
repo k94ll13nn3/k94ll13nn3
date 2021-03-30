@@ -2,7 +2,7 @@
 
 Développeur .NET, passionné par les nouvelles technologies .NET (Blazor, .NET Core, F#, ...), l'open-source (en .NET bien sûr !), et ... à bas les régions (non, sérieusement, il faut arrêter avec les `#regions`) !
 
-Et shasseur...
+Et [shasseur](https://k94ll13nn3.github.io/ChromaListe/)... 
 
 <!--
 **k94ll13nn3/k94ll13nn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
