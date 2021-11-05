@@ -1,6 +1,6 @@
 ### Hello :hamster:
 
-Développeur .NET, passionné par les nouvelles technologies .NET (Blazor, .NET Core, F#, ...), l'open-source (en .NET bien sûr !), et ... à bas les régions (non, sérieusement, il faut arrêter avec les `#regions`) !
+Développeur .NET, passionné par les nouvelles technologies .NET (Blazor, .NET Core, F#, ...), l'open-source (en .NET bien sûr !), et ... à bas les `#regions` !
 
 Et [shasseur](https://k94ll13nn3.github.io/ChromaListe/)... 
 
