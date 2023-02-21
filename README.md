@@ -1,7 +1,5 @@
 ### Hello :hamster:
 
-Développeur .NET, passionné par les nouvelles technologies .NET (Blazor, .NET Core, F#, ...), l'open-source (en .NET bien sûr !).
-
 <!--
 **k94ll13nn3/k94ll13nn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
